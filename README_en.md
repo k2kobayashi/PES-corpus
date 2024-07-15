@@ -3,7 +3,8 @@
 ## 1. Description
 
 ### a. Overview of the Speech Corpus
-This speech corpus consists of Japanese transcripts and voice data from multiple speakers, including both natural speech and electrolarynx (EL) speech.
+This speech corpus consists of Japanese transcripts and voice data from multiple speakers, including both natural speech and electrolarynx (EL) speech.  
+You can listen to the voice conversion samples on the [demo page](https://unilight.github.io/Publication-Demos/publications/asj2024autumn-pesc/index.html).
 
 ### b. Data Information
 The corpus includes parallel data of 200 utterances per speaker from 14 healthy individuals, comprising both natural and pseudo-EL speech, as well as evaluation data of 50 utterances from 3 laryngectomees. The specific attributes of each data set are as follows:
