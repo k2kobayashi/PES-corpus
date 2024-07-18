@@ -1,4 +1,7 @@
 ![pes-corpus_banner](https://github.com/user-attachments/assets/18279e04-2fdd-4a72-884f-e869506a5a6b)
+
+[ダウンロード](https://drive.google.com/file/d/12pyzritu5ulHR0mX66kjGih-Zf8BrZ2Q/view?usp=sharing)
+
 # 疑似電気喉頭音声コーパスについて
 
 ## 1. 説明
