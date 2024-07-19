@@ -1,3 +1,7 @@
+![pes-corpus_banner](https://github.com/user-attachments/assets/18279e04-2fdd-4a72-884f-e869506a5a6b)
+
+[ダウンロード](https://drive.google.com/file/d/12pyzritu5ulHR0mX66kjGih-Zf8BrZ2Q/view?usp=sharing)
+
 # Pseudo-Electrolarynx Speech Corpus
 
 ## 1. Description
@@ -59,6 +63,7 @@ Commercial use is also possible. If you intend to use it commercially, please co
 ## 3. Contributors
 - Kazuhiro Kobayashi (Nagoya University / TARVO)
 - Kenichi Ogita (Nagoya University / TARVO)
+- Kiseki Niwa (Nagoya University / TARVO)
 - Ma Ding (Nagoya University)
 - Lester Violeta (Nagoya University)
 - WenChin Huang (Nagoya University)
