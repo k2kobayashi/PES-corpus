@@ -63,6 +63,7 @@
 ## 3. 貢献者
 - 小林 和弘 (名古屋大学/TARVO)
 - 荻田 健一 (名古屋大学/TARVO)
+- 丹羽 希碩 (名古屋大学)
 - Ma Ding (名古屋大学)
 - Lester Violeta (名古屋大学)
 - WenChin Huang (名古屋大学)
