@@ -71,5 +71,6 @@
 
 ## 4. 連絡先
 株式会社TARVO (https://tarvo.co.jp/)
+
 疑似電気喉頭音声コーパス担当 contact@tarvo.co.jp
 
